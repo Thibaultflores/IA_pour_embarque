@@ -26,7 +26,8 @@ En entraînant l'IA, on obtient le fichier "model.h" que nous allons utiliser po
 
 On rajoute ensuite les commandes d'affichage des questions et on attend les réponses avec les gestes.
 
-Résultat à l'aide de MobaXterm:
+Résultat à l'aide de MobaXterm :
+
 ![result projet 1](https://user-images.githubusercontent.com/92917769/211164339-4de452c0-6905-4d04-9a65-2d6906d25cee.png)
 
 Tout fonctionne correctement.

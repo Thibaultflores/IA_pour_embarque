@@ -31,3 +31,32 @@ Résultat à l'aide de MobaXterm :
 ![result projet 1](https://user-images.githubusercontent.com/92917769/211164339-4de452c0-6905-4d04-9a65-2d6906d25cee.png)
 
 Tout fonctionne correctement.
+
+# Projet 2
+
+Nous avons commencé par enregistrer les échantillons des prononciations des différents mots sur Edge Impulse.
+
+Nous avons ensuite ajouté les blocks de training et de test.
+
+Nous avons lancer l'entraînement et obtenu les résultats suivants :
+
+![image](https://user-images.githubusercontent.com/92917769/211169935-aa7684cf-ff2e-478c-9da5-d2f896e7fbff.png)
+![image](https://user-images.githubusercontent.com/92917769/211169945-396987fd-cf97-41c4-a0bc-c467e5edc517.png)
+![image](https://user-images.githubusercontent.com/92917769/211169949-2187e0b1-3c86-43e7-a460-7676b5837d8a.png)
+
+Nous avons ensuite effectué les tests sur le model que nous avons créé : 
+
+Nous avons commencé par dire "FPGA" :
+
+![image](https://user-images.githubusercontent.com/92917769/211169983-d4485de6-4245-47b6-ab67-7859ed39b6e8.png)
+![image](https://user-images.githubusercontent.com/92917769/211169991-ac0bef71-7691-4973-96e2-bf4589a2d15f.png)
+![image](https://user-images.githubusercontent.com/92917769/211169996-f90249de-ac3b-4831-a02b-65cd7e5cda2c.png)
+
+Le model fonctionne bien et détecte bien "FPGA".
+
+Nous avons ensuite testé avec "microcontrôleur" : 
+
+![image](https://user-images.githubusercontent.com/92917769/211170022-5a5c4f12-f6c9-4e9d-9a7f-3ba9446fd07f.png)
+![image](https://user-images.githubusercontent.com/92917769/211170025-e32a2a85-2db3-443d-b7cb-adee65c214c9.png)
+
+Encore une fois, le model détecte bien le bon mot. La détection est d'ailleurs encore plus efficace.

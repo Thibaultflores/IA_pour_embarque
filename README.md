@@ -60,3 +60,7 @@ Nous avons ensuite testé avec "microcontrôleur" :
 ![image](https://user-images.githubusercontent.com/92917769/211170025-e32a2a85-2db3-443d-b7cb-adee65c214c9.png)
 
 Encore une fois, le model détecte bien le bon mot. La détection est d'ailleurs encore plus efficace.
+
+Nous avons ensuite build l'ensemble du dispositif et nous avons flashé notre carte arduino avec le fichier téléchargé.
+
+Nous nous sommes arrêté ici pour le moment. 

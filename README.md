@@ -19,7 +19,7 @@ La première étape consiste à enregistrer les deux gestes dans une base de don
 
 Nous allons ensuite lancer l'entraînement de l'IA et allons coder quelques lignes permettant de poser les questions via le serial monitor et de répondre en reconnaissant les deux gestes. 
 
-Pour ce faire, nous avons repris le code vu en cours pour détecter les punch.
+Pour ce faire, nous avons repris le code vu en cours pour détecter les punch : https://github.com/walid213/tinyml-workshop
 
 Nous avons générer les fichiers "oui.csv" et "non.csv" pour les 2 différents gestes. 
 En entraînant l'IA, on obtient le fichier "model.h" que nous allons utiliser pour détecter les gestes.

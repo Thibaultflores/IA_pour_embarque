@@ -46,6 +46,8 @@ Nous avons lancer l'entraînement et obtenu les résultats suivants :
 
 Nous avons ensuite effectué les tests sur le model que nous avons créé : 
 
+On reteste le model pour connaitre son efficacité :
+
 Nous avons commencé par dire "FPGA" :
 
 ![image](https://user-images.githubusercontent.com/92917769/211169983-d4485de6-4245-47b6-ab67-7859ed39b6e8.png)
